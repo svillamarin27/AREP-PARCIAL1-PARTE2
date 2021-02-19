@@ -14,7 +14,7 @@ public class Cliente {
 	        BufferedReader input;
 	        BufferedReader stdinread = new BufferedReader(new InputStreamReader(System.in));
 	        
-	        URL trigoApp = new URL("http://limitless-falls-93957.herokuapp.com/results?numbers=sin-1");
+	        URL trigoApp = new URL("http://hidden-taiga-91065.herokuapp.com/results?numbers=sin-1");
 	        
 	        URLConnection coApp = trigoApp.openConnection();
 	        
