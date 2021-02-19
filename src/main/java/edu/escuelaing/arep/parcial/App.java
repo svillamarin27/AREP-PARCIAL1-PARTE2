@@ -2,9 +2,7 @@ package edu.escuelaing.arep.parcial;
 
 import java.io.*;
 import java.net.*;
-import java.util.*;
-import java.util.ArrayList;
-import java.util.List;
+
 import spark.*;
 import static spark.Spark.*;
 import org.json.*;
